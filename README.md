@@ -4,9 +4,9 @@ Hi! :wave:
 
 Whether you have been sent here by one of our recruitment ninjas, or stumbled upon it by accident, we're excited you're here! We are the leading mobile innovation and app development company from Oslo, Norway. :norway: Nobody in Norway has delivered more apps than us! 
 
-<center>
-<a href="https://www.shortcut.no/why"><img src="https://i.imgur.com/U3obmEd.png"/></a>
-</center>
+<p align="center">
+  <a href="https://www.shortcut.no/why"><img src="https://i.imgur.com/U3obmEd.png"/></a>
+</p>
 
 This document describes one of the challenges for those interested in working with us. As you may have guessed, it revolves around Android. :tada: 
 
@@ -18,9 +18,9 @@ If you've stumbled upon this document and like what you're reading, but perhaps 
 
 A client of ours has just discovered [xkcd comics](https://xkcd.com/).
 
-<center>
-<a href="https://www.xkcd.com/327/"><img src="https://imgs.xkcd.com/comics/exploits_of_a_mom.png"/></a>
-</center>
+<p align="center">
+  <a href="https://www.xkcd.com/327/"><img src="https://imgs.xkcd.com/comics/exploits_of_a_mom.png"/></a>
+</p>
 
 Disregarding the abundance of similar apps in the Play store, she wants to create a comic viewer app, right now! She came up with a list of requirements, too! The user should be able to:
 
@@ -80,6 +80,7 @@ Please include a README file with a quick and dirty description of your solution
 We don't like goodbyes, so why not stay in touch? Follow us on [LinkedIn](https://no.linkedin.com/company/shortcut-as) and [Twitter](https://twitter.com/shortcut_no). We also appreciate any feedback you may have regarding this coding assignment, good or bad. Send an email to [post@shortcut.no](mailto:post@shortcut.no) and let us know how we're doing! 
 
 Takk for nå! 
-<center>
-<a href="https://youtu.be/dQw4w9WgXcQ"/><img src="http://briff.me/wp-content/uploads/2015/01/Animals-Waving-Goodbye-1-Polar-Bear.jpg"/></a>
-</center>
+
+<p align="center">
+  <a href="https://youtu.be/dQw4w9WgXcQ"><img src="http://briff.me/wp-content/uploads/2015/01/Animals-Waving-Goodbye-1-Polar-Bear.jpg"/></a>
+</p>
