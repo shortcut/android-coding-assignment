@@ -12,7 +12,7 @@ This document describes one of the challenges for those interested in working wi
 
 ## Haven't applied yet? No problem! 
 
-If you've stumbled upon this document and like what you're reading, but perhaps your CV is not polished yet, don't worry! You can jump straight into the challenge. Once done, refer to the [The Handover](#the-handover) to get in touch!
+If you've stumbled upon this document and like what you're reading, but perhaps your CV is not polished yet, don't worry! You can jump straight into the challenge. Once done, refer to the [The Handover](#the-hangover-handover) to get in touch!
 
 ## The Challenge
 
