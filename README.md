@@ -1,3 +1,5 @@
+:fire: This repo has moved: https://github.com/shortcut/coding-assignment-mobile :fire:
+
 # The Shortcutter's Android Challenge
 
 Hi! :wave: 
